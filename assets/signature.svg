@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Продолжение — в коммитах. k1riga.</title>
+  <path d="M0 .5H1200" stroke="#6E7561"/>
+  <rect y="24" width="7" height="36" fill="#F5B544"/>
+  <text x="23" y="48" fill="#979F89" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="18">Продолжение — в коммитах.</text>
+  <text x="1105" y="48" fill="#B17D28" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="17">k1riga</text>
+  <path d="M1037 29L1049 41L1037 53M1060 29L1072 41L1060 53" stroke="#B17D28" stroke-width="2"/>
+</svg>

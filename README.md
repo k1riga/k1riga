@@ -1,83 +1,66 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="k1riga — Software, systems & automation. Графитовый баннер с янтарной схемой взаимосвязанных сервисов." />
+<p>
+  <img src="./assets/workshop.svg" width="100%" alt="k1riga. Тут — не весь код. Авторская схема хранилища: часть проектов видна, остальные пока под замком." />
 </p>
 
-<h1 align="center">Илья Ибрагимов</h1>
+# Илья Ибрагимов / k1riga
 
-<p align="center">
-  <strong>Сервисы. Интерфейсы. Автоматизация.</strong><br />
-  Превращаю бизнес-задачи в работающие инструменты.
-</p>
+Пишу софт для вполне осязаемых вещей: складов, товаров, заказов и людей, которые со всем этим работают. Где-то это сервер, где-то — приложение на терминале или компьютере, где-то — магазин или бот.
 
-<p align="center">
-  <a href="https://t.me/k1rigaa">Написать в Telegram ↗</a>
-  &nbsp; · &nbsp;
-  <a href="#выбранные-проекты">Посмотреть проекты ↓</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/k1riga?tab=repositories">Все репозитории ↗</a>
-</p>
+[Telegram ↗](https://t.me/k1rigaa) &nbsp; / &nbsp; [Открытые репозитории ↗](https://github.com/k1riga?tab=repositories)
 
 <br />
 
-## 01 / Чем занимаюсь
+## За закрытой дверью
 
-Разрабатываю backend-сервисы, веб-интерфейсы и Telegram-ботов. Мне интересны задачи, где код помогает наладить конкретный процесс: собрать данные, разобраться в продажах, учесть расходы или убрать ручную работу.
+**Заметная часть моей работы сейчас в приватных репозиториях.** Там разрабатываются:
 
-| Направление | В работе |
-| :--- | :--- |
-| **Backend & API** | Python, FastAPI, асинхронная обработка, интеграции |
-| **Web-интерфейсы** | TypeScript, React, Next.js, Tailwind CSS |
-| **Данные & автоматизация** | PostgreSQL, аналитика маркетплейсов, Telegram-боты |
+- **Складские системы** — учёт и автоматизация рабочих процессов.
+- **Приложения для устройств** — мобильные и десктопные клиенты, софт для складских терминалов.
+- **E-commerce и фулфилмент** — инструменты для торговли и обработки заказов.
+
+Пока рассказываю о них в общих чертах. Часть этих проектов со временем может стать публичной — тогда здесь появятся код и подробности.
+
+<details>
+<summary><strong>А на чём всё это?</strong></summary>
 
 <br />
 
-## Выбранные проекты
+Python и JavaScript на сервере, TypeScript и React в вебе. Swift и Kotlin — в приложениях. PostgreSQL — для данных.
 
-<sub>02 / SELECTED WORK</sub>
+Конкретный набор зависит от задачи: бот для отчётов и складской терминал требуют разных решений.
 
-### [01 — Аналитика Wildberries ↗](https://github.com/k1riga/Saas-WB-Orders-Analis)
+</details>
 
-Микросервис, который превращает данные заказов в понятную аналитику: сводки за период, динамику по часам, ABC/XYZ-анализ и показатели по товарам.
+<br />
 
-`Python` &nbsp; `FastAPI` &nbsp; `PostgreSQL` &nbsp; `asyncpg`
+## Уже можно заглянуть
 
-[Посмотреть backend →](https://github.com/k1riga/Saas-WB-Orders-Analis) &nbsp; · &nbsp; [Планировщик заказов →](https://github.com/k1riga/Saas-WB-Orders-plan)
+Несколько открытых проектов — чтобы было что посмотреть руками.
+
+### [↳ Аналитика Wildberries](https://github.com/k1riga/Saas-WB-Orders-Analis)
+
+Из заказов — в сводки и аналитику по товарам. Динамика продаж, ABC/XYZ-анализ, асинхронный API.
+
+<sub>PYTHON · FASTAPI · POSTGRESQL</sub>
+
+### [↳ SaaS Frontend](https://github.com/k1riga/Saas-FRONT)
+
+Веб-интерфейс для SaaS-проекта: страницы, графики и клиентская логика.
+
+<sub>TYPESCRIPT · NEXT.JS · REACT</sub>
+
+### [↳ FuelKeeper](https://github.com/k1riga/TG_Bot-FuelKeeper-)
+
+Водитель отправляет чек в Telegram, руководитель видит расходы и отчёты. Меньше сообщений «а куда делся этот чек?».
+
+<sub>PYTHON · TELEGRAM BOT · POSTGRESQL</sub>
+
+<br />
 
 ---
 
-### [02 — SaaS Frontend ↗](https://github.com/k1riga/Saas-FRONT)
+**Пообщаться о разработке или обсудить задачу → [@k1rigaa](https://t.me/k1rigaa)**
 
-Веб-интерфейс SaaS-проекта. Клиентская часть на Next.js и TypeScript с компонентами React, графиками Recharts и анимациями Framer Motion.
-
-`TypeScript` &nbsp; `Next.js` &nbsp; `React` &nbsp; `Tailwind CSS`
-
-[Посмотреть интерфейс →](https://github.com/k1riga/Saas-FRONT)
-
----
-
-### [03 — FuelKeeper ↗](https://github.com/k1riga/TG_Bot-FuelKeeper-)
-
-Telegram-бот для учёта расходов водителей: регистрация с одобрением, загрузка чеков, категории трат и ежемесячная отчётность для руководителя.
-
-`Python` &nbsp; `python-telegram-bot` &nbsp; `PostgreSQL`
-
-[Посмотреть бота →](https://github.com/k1riga/TG_Bot-FuelKeeper-)
-
-<br />
-
-## 03 / Как я смотрю на разработку
-
-Сначала — задача и люди, которые будут пользоваться результатом. Затем — понятная архитектура, аккуратная работа с данными и интерфейс, в котором легко разобраться.
-
-> Хороший инструмент упрощает работу. Именно такие инструменты мне интересно создавать.
-
-<br />
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Есть задача? Давайте соберём решение." />
-</p>
-
-<p align="center">
-  <a href="https://t.me/k1rigaa"><strong>Обсудить проект в Telegram ↗</strong></a>
-  <br /><sub>k1riga / Илья Ибрагимов</sub>
+<p>
+  <img src="./assets/signature.svg" width="100%" alt="Продолжение — в коммитах. k1riga." />
 </p>
