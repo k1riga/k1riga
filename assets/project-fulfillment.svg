@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="112" viewBox="0 0 560 112" fill="none" role="img" aria-labelledby="title">
+<title id="title">06 / FULFILLMENT / MVP / private project</title>
+<rect width="560" height="112" rx="7" fill="#1C1C1C"/>
+<path d="M0 111H560" stroke="#4D3C25"/>
+<rect x="0" y="23" width="3" height="65" fill="#F3AD42"/>
+<text x="22" y="69" fill="#F3AD42" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="700" letter-spacing="-2">06</text>
+<path d="M93 32V81" stroke="#494337"/>
+<text x="112" y="49" fill="#EAE1D1" font-family="Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing=".7">FULFILLMENT / MVP</text>
+<circle cx="116" cy="72" r="3" fill="#B18F57"/>
+<text x="127" y="76" fill="#A49A89" font-family="Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2">PRIVATE SOURCE</text>
+<g stroke="#F3AD42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M412 51L437 38L462 51V80L437 93L412 80Z M412 51L437 64L462 51M437 64V93M425 44L450 57"/><rect x="478" y="27" width="37" height="52" rx="3"/><path d="M485 39H507M485 48H507M485 57H499M471 80L480 88L499 69"/></g>
+</svg>
